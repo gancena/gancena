@@ -2,7 +2,7 @@
 ---
 - 💼 Technical Director at [Playground Inc.](https://playgroundinc.com)
 - 🧰 Working on client projects using [Typescript](https://www.typescriptlang.org/)/[NextJS](https://nextjs.org/)/[Tailwind](https://tailwindcss.com/)/[Storyblok](https://www.storyblok.com/)
-- 🧠 Experimenting with [GSAP](https://greensock.com/gsap/)/[ThreeJS](https://threejs.org/)/[PixiJS](https://www.pixijs.com/)
+- 🧠 Experimenting with [GSAP](https://greensock.com/gsap/)/[ThreeJS](https://threejs.org/)/[PixiJS](https://www.pixijs.com/)/[Webcomponents](https://www.webcomponents.org/)
 
 <!-- ### 👯 Past Clients
 - [Air Canada]()
