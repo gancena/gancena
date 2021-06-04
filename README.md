@@ -1,16 +1,21 @@
-### Hi there 👋
+### ✌️ Hello
+---
+- 💼 Technical Director at [Playground Inc.](https://playgroundinc.com)
+- 🧰 Working on client projects using [Typescript](https://www.typescriptlang.org/)/[NextJS](https://nextjs.org/)/[Tailwind](https://tailwindcss.com/)/[Storyblok](https://www.storyblok.com/)
+- 🧠 Experimenting with [GSAP](https://greensock.com/gsap/)/[ThreeJS](https://threejs.org/)/[PixiJS](https://www.pixijs.com/)
 
-<!--
-**gancena/gancena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### 👯 Past Clients
+- [Air Canada]()
+- [Goodlife Fitness]()
+- [Boston Pizza]()
+- [Nissan]()
+- [Infiniti]()
+- [Healthspan]()
+- [TGOD]()
+- [ADP]()
+- [Hisense Canada]() -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- ![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=gancena&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gancena)](https://github.com/gancena/github-readme-stats) -->
